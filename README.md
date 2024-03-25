@@ -23,3 +23,9 @@ French - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom
 English - Plain Text  
 English - PDF  
 
+## Entretiens sur la Pluralité des Mondes (Librairie de la Bibliothèque nationale 1899).
+
+French - Plain Text  
+French - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom  
+English - Plain Text  
+English - PDF  
