@@ -9,9 +9,17 @@ French - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom
 English - Plain Text  
 English - PDF  
 
+## Entretiens sur la Pluralité des Mondes (Gunning 1803).
+
+English - Plain Text  
+English - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom  
+French - Plain Text  
+French - PDF  
+
 ## Entretiens sur la Pluralité des Mondes (Didier 1852).
 
 French - Plain Text  
 French - PDF | Biolinum | Atkinson | Cursive | Aurical | Kerkis | Custom  
 English - Plain Text  
 English - PDF  
+
